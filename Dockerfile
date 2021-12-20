@@ -1,4 +1,4 @@
-FROM busybox:latest
+FROM alpine:latest
 MAINTAINER Matt Bentley <mbentley@mbentley.net>
 
 COPY me.txt /me.txt
